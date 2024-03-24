@@ -1,0 +1,15 @@
+---
+permalink: /ordinal.ttl
+---
+PREFIX schema: <https://schema.org/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+<https://linked.data.gov.au/def/levels-of-measurement/ordinal>
+    a skos:Concept ;
+    skos:definition "The ordinal level allows for rank order (1st, 2nd, 3rd, etc.) by which data can be sorted but still does not allow for a relative degree of difference between them"@en ;
+    skos:inScheme <https://linked.data.gov.au/def/levels-of-measurement> ;
+    skos:prefLabel "Ordinal"@en ;
+    skos:topConceptOf <https://linked.data.gov.au/def/levels-of-measurement> ;
+    schema:citation "https://en.wikipedia.org/wiki/Level_of_measurement"^^xsd:anyURI ;
+.

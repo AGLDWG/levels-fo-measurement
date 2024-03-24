@@ -1,0 +1,15 @@
+---
+permalink: /nominal.ttl
+---
+PREFIX schema: <https://schema.org/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+<https://linked.data.gov.au/def/levels-of-measurement/nominal>
+    a skos:Concept ;
+    skos:definition "The nominal level differentiates between items or subjects based only on their names or (meta-)categories and other qualitative classifications they belong to; thus dichotomous data involves the construction of classifications as well as the classification of items"@en ;
+    skos:inScheme <https://linked.data.gov.au/def/levels-of-measurement> ;
+    skos:prefLabel "Nominal"@en ;
+    skos:topConceptOf <https://linked.data.gov.au/def/levels-of-measurement> ;
+    schema:citation "https://en.wikipedia.org/wiki/Level_of_measurement"^^xsd:anyURI ;
+.

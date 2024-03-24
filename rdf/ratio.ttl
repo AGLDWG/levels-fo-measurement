@@ -1,0 +1,15 @@
+---
+permalink: /ratio.ttl
+---
+PREFIX schema: <https://schema.org/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+<https://linked.data.gov.au/def/levels-of-measurement/ratio>
+    a skos:Concept ;
+    skos:definition "The ratio type takes its name from the fact that measurement is the estimation of the ratio between a magnitude of a continuous quantity and a unit of measurement of the same kind"@en ;
+    skos:inScheme <https://linked.data.gov.au/def/levels-of-measurement> ;
+    skos:prefLabel "Ratio"@en ;
+    skos:topConceptOf <https://linked.data.gov.au/def/levels-of-measurement> ;
+    schema:citation "https://en.wikipedia.org/wiki/Level_of_measurement"^^xsd:anyURI ;
+.
