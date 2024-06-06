@@ -12,7 +12,7 @@ permalink: /
 {: .concept_scheme .alternating}  
 Element | Value
 --- | ---
-[Identifier](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/identifier) | <https://linked.data.gov.au/def/evels-of-measurement>
+[Identifier](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/identifier) | <https://linked.data.gov.au/def/levels-of-measurement>
 [Creator](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/creator) | [Nicholas J. Car](http://orcid.org/0000-0002-8742-7730)
 [Publisher](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/publisher) | [Department of Climate Change, Energy, the Environment and Water](https://linked.data.gov.au/org/dcceew)
 [Created](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/created) | 21st Mar 2024
