@@ -5,7 +5,7 @@ permalink: /
 ---
 # Vocabulary
 
-## Data Roles 
+## Levels of Measurement
 
 `https://linked.data.gov.au/def/levels-of-measurement`
 
