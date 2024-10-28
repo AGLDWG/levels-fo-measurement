@@ -14,6 +14,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:inScheme cs: ;
     skos:prefLabel "Interval"@en ;
     skos:topConceptOf cs: ;
+    skos:exactMatch <http://www.ontologyrepository.com/CommonCoreOntologies/is_a_interval_measurement_of>
     schema:citation "https://en.wikipedia.org/wiki/Level_of_measurement"^^xsd:anyURI ;
 .
 
@@ -23,6 +24,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:inScheme cs: ;
     skos:prefLabel "Nominal"@en ;
     skos:topConceptOf cs: ;
+    skos:exactMatch <http://www.ontologyrepository.com/CommonCoreOntologies/is_a_nominal_measurement_of>
     schema:citation "https://en.wikipedia.org/wiki/Level_of_measurement"^^xsd:anyURI ;
 .
 
@@ -32,6 +34,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:inScheme cs: ;
     skos:prefLabel "Ordinal"@en ;
     skos:topConceptOf cs: ;
+    skos:exactMatch <http://www.ontologyrepository.com/CommonCoreOntologies/is_a_ordinal_measurement_of>
     schema:citation "https://en.wikipedia.org/wiki/Level_of_measurement"^^xsd:anyURI ;
 .
 
@@ -41,6 +44,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
     skos:inScheme cs: ;
     skos:prefLabel "Ratio"@en ;
     skos:topConceptOf cs: ;
+    skos:exactMatch <http://www.ontologyrepository.com/CommonCoreOntologies/is_a_ratio_measurement_of>
     schema:citation "https://en.wikipedia.org/wiki/Level_of_measurement"^^xsd:anyURI ;
 .
 
